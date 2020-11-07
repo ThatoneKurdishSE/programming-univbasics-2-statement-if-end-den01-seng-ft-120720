@@ -3,8 +3,6 @@
    else
   puts "Odd!"
 end
-Odd!
- => nil
  
 Time.now.to_i
  if Time.now.to_i.even?
@@ -12,5 +10,3 @@ Time.now.to_i
   else
 puts "Odd!"
  end
-Odd!
- => nil
