@@ -1,8 +1,8 @@
-2.6.1 :026 > if Time.now.to_i%2==0
-2.6.1 :027?>   puts "Even!"
-2.6.1 :028?>   else
-2.6.1 :029?>   puts "Odd!"
-2.6.1 :030?>   end
+ if Time.now.to_i%2==0
+   puts "Even!"
+   else
+  puts "Odd!"
+end
 Odd!
  => nil
  
